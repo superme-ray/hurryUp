@@ -1,0 +1,2 @@
+# hurryUp
+work hard
