@@ -49,6 +49,6 @@ app.use('/web/daily_info', require('./routes/web/daily_info'))
 app.use('/web/photo', require('./routes/web/photo'))
 app.use('/web/jandan', require('./routes/web/jandan'))
 app.use(router)
-app.listen(3001)
-console.log('app start success port:3001')
+app.listen(80)
+console.log('app start success port:80')
 module.exports = app
