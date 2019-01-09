@@ -1,2 +1,1 @@
-# hurryUp
-work hard
+nothing
